@@ -3,7 +3,7 @@ import Config
 # Configure your database
 config :users_api, UsersApi.Repo,
   username: "postgres",
-  password: "postgres",
+  password: "Kgotso1998$",
   hostname: "localhost",
   database: "users_api_dev",
   stacktrace: true,
